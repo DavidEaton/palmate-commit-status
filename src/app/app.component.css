@@ -1,3 +1,10 @@
-h2 {
+h2, p {
   font-family: Lato;
+}
+.allowed {
+    font-size: 4em;
+    color: green;
+}
+.push-down {
+  padding-top: 100px
 }
